@@ -19,5 +19,6 @@ summary: "is all you need."
 
 ---------
 
-# Other
 - The **[The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)** suggests that increasing the scale of neural networks (more parameters, data, and compute) improves their performance and ability to solve complex tasks. This idea is supported by models like GPT-3, which demonstrate meta-learning (few-shot learning) and generalization without complex architectures. The hypothesis implies that intelligence can emerge from simple algorithms applied at massive scales.
+
+- [AI-2027](https://ai-2027.com) We predict that the impact of superhuman AI over the next decade will be enormous, exceeding that of the Industrial Revolution.
